@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "FrameHelper"
   s.version      = "0.1"
-  s.summary      = "A short description of FrameHelper."
+  s.summary      = "Easy way to access view's frame in iOS"
 
   s.description  = <<-DESC
                   Easy way to access view's frame in iOS
@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "5.0"
   s.source       = { :git => "https://github.com/akinLiu/FrameHelper.git", :tag => s.version.to_s }
 
-  s.source_files  = "UIViewFrameHelper/*.{h.m}"
+  s.source_files  = "UIViewFrameHelper/*.{h,m}"
   s.requires_arc = true
 end

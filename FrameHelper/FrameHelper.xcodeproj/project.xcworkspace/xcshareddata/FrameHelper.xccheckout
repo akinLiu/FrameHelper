@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>53CC291A-82E5-42F8-B083-6198817ACBCD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FrameHelper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D846090F-F651-46FD-B7F6-E6609F8520D2</key>
+		<string>ssh://github.com/akinLiu/FrameHelper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FrameHelper/FrameHelper.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D846090F-F651-46FD-B7F6-E6609F8520D2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/akinLiu/FrameHelper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D846090F-F651-46FD-B7F6-E6609F8520D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D846090F-F651-46FD-B7F6-E6609F8520D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FrameHelper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

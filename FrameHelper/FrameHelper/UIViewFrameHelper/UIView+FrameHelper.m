@@ -25,7 +25,7 @@
 
 - (CGFloat)y
 {
-	return CGRectGetMinX(self.frame);
+	return CGRectGetMinY(self.frame);
 }
 
 - (void)setY:(CGFloat)y

@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "FrameHelper"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "Easy way to access view's frame in iOS"
   s.homepage     = "https://github.com/akinLiu/FrameHelper"
   s.license      = "MIT"
